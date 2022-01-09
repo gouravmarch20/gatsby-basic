@@ -1,0 +1,24 @@
+.footer {
+  position: fixed;
+  padding: 2rem;
+
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+.footer p  {
+    font-size: 1.2rem;
+    /* color: red; */
+}
+.footer a  {
+    font-size:1.3rem;
+    
+    /* color: red; */
+}
+
+.footer-link {
+  margin-left: 5rem;
+  color: #03203c;
+}
